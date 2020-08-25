@@ -35,4 +35,4 @@ npm run ios
 ├── .eslintrc                         # eslint configuration
 ├── index.js                          # app entry file
 └── package.json                      # This document is all you need to know about what’s required in your package.json file.
-```
+```# react-tpl-myapp
